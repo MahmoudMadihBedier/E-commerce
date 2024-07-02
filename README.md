@@ -1,4 +1,4 @@
-# fluttertasks
+# E-commerce flutter tasks
 
 A new Flutter project.
 
